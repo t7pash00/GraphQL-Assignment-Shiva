@@ -26,3 +26,12 @@ Get Courses By Id
 
 Get Grades By Id
 ![screenshot 13](https://user-images.githubusercontent.com/32188665/53396725-da884580-39ad-11e9-986d-631e33fc8e98.png)
+
+Create New Student
+![screenshot 14](https://user-images.githubusercontent.com/32188665/53397642-51bed900-39b0-11e9-97c5-b3793b94d14d.png)
+
+Create New Course
+![screenshot 15](https://user-images.githubusercontent.com/32188665/53397648-55526000-39b0-11e9-915d-c996ff735f20.png)
+
+Create New Grade
+![screenshot 16](https://user-images.githubusercontent.com/32188665/53397660-5aafaa80-39b0-11e9-8f77-da2919793e98.png)
